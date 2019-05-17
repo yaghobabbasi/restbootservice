@@ -1,3 +1,6 @@
+#see rest method from bellow address:
+http://localhost:8081/swagger-ui.html
+
 # Java Developers online test
 We want to develop a RESTful service which sells a product called "some" and this test is covering two positions "junior" and "mid-level" developer. Take a look at the project structure then done the desired tasks based on the position you are deserved.
 
