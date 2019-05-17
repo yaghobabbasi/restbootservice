@@ -1,0 +1,10 @@
+CREATE TABLE SOME
+(
+  ID       BIGINT PRIMARY KEY AUTO_INCREMENT (1)
+  ,
+  Name     NVARCHAR(50)
+  ,
+  Address  NVARCHAR(50)
+  ,
+  Password NVARCHAR(50) NOT NULL
+);
